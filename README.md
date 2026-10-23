@@ -5,11 +5,11 @@
 ## I'm a Data Analyst Aspirant, Developer, Problem Solver, and BTS ARMY!! 💜
 
 - 🔭 I’m currently working on **Data Analytics & Visualization Dashboards**
-- 🌱 I’m currently learning **Advanced SQL, Machine Learning & Cloud Data Pipelines**
+- 🌱 I’m currently learning **Advanced SQL, Machine Learning & Generative AI**
 - 👯 I’m looking to collaborate on **Open-Source Data Science & Python Projects**
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Pandas, and Data Storytelling**
 - 📫 Pronouns: **She/Her**
-- ⚡ Fun fact: **I code best with a cup of coffee ☕ and BTS on repeat 🎵 (Bias: RM | 보라해 💜)**
+- ⚡ Fun fact: **I code best with a cup of coffee ☕ and BTS on repeat 🎵 (Bias: Jungkook | 보라해 💜)**
 
 <br/>
 
