@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding GIF" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif" width="460" />
 
-## I'm a Data Analyst Aspirant, Developer, Problem Solver, and BTS ARMY!! 💜
+## I'm a Data Analyst Aspirant, Developer, Problem Solver!! 💜
 
 - 🔭 I’m currently working on **Data Analytics & Visualization Dashboards**
 - 🌱 I’m currently learning **Advanced SQL, Machine Learning & Generative AI**
